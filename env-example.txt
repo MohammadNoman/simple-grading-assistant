@@ -1,0 +1,5 @@
+# Environment Variables
+
+# Google Gemini API Key (Get from: https://aistudio.google.com/app/apikey)
+# Free Tier: 15 requests per minute, 1,500 requests per day (FREE OF CHARGE)
+GOOGLE_API_KEY=your_google_api_key_here
